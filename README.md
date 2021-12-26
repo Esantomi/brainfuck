@@ -13,6 +13,7 @@ A brainfuck interpreter written in python
   - `]` : 포인터가 가리키는 바이트의 값이 0이 아니면 짝이 되는 `[`로 이동한다.
 
 ## 참고
-- [브레인퍽 비주얼라이저](https://brainfuck-visualizer.herokuapp.com/)
+- [Brainfuck visualizer](https://brainfuck-visualizer.herokuapp.com/)
+- [Brainfuck text generator](https://copy.sh/brainfuck/text.html)
 - [브레인퍽 - 나무위키](https://namu.wiki/w/%EB%B8%8C%EB%A0%88%EC%9D%B8%ED%8D%BD)
 - [브레인퍽 | 메아리 풉;](https://pub.mearie.org/%EB%B8%8C%EB%A0%88%EC%9D%B8%ED%8D%BD)
