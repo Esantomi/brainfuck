@@ -12,6 +12,9 @@ A brainfuck interpreter written in python
   - `[` : 포인터가 가리키는 바이트의 값이 0이 되면 짝이 되는 `]`로 이동한다. 의사코드로는 `while(*ptr != 0) {...}`이다.
   - `]` : 포인터가 가리키는 바이트의 값이 0이 아니면 짝이 되는 `[`로 이동한다.
 
+## ASCII 코드표
+![image](https://user-images.githubusercontent.com/61646760/147531437-a7af09ec-60d9-440b-8042-fddcc07e57a6.png)
+
 ## 참고
 - [Brainfuck visualizer](https://brainfuck-visualizer.herokuapp.com/)
 - [Brainfuck text generator](https://copy.sh/brainfuck/text.html)
